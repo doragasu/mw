@@ -1,0 +1,15 @@
+[submodule "src/mw-mdma-bl"]
+	path = src/mw-mdma-bl
+	url = https://github.com/doragasu/mw-mdma-bl.git
+[submodule "src/mw-mdma-fw"]
+	path = src/mw-mdma-fw
+	url = https://github.com/doragasu/mw-mdma-fw.git
+[submodule "src/mw-mdma-cli"]
+	path = src/mw-mdma-cli
+	url = https://github.com/doragasu/mw-mdma-cli.git
+[submodule "src/mw-fw-rtos"]
+	path = src/mw-fw-rtos
+	url = https://github.com/doragasu/mw-fw-rtos.git
+[submodule "src/mw-api"]
+	path = src/mw-api
+	url = https://github.com/doragasu/mw-api.git
