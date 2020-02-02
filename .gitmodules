@@ -13,3 +13,18 @@
 [submodule "src/mw-api"]
 	path = src/mw-api
 	url = https://github.com/doragasu/mw-api.git
+[submodule "sch/mw-cart"]
+	path = sch/mw-cart
+	url = https://github.com/doragasu/mw-cart.git
+[submodule "sch/mw-prog"]
+	path = sch/mw-prog
+	url = https://github.com/doragasu/mw-prog.git
+[submodule "src/mw-wflash"]
+	path = src/mw-wflash
+	url = https://github.com/doragasu/mw-wflash.git
+[submodule "src/mw-wf-cli"]
+	path = src/mw-wf-cli
+	url = https://github.com/doragasu/mw-wf-cli.git
+[submodule "src/mw-tgbot"]
+	path = src/mw-tgbot
+	url = https://gitlab.com/doragasu/mw-tgbot.git
