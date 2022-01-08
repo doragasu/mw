@@ -1,3 +1,7 @@
+# WARNING: THIS PROJECT HAS MOVED
+
+You can find the most recent version at the [mw GitLab project page](https://gitlab.com/doragasu/mw). This repository will be kept as is, and will not be updated anymore.
+
 # MegaWiFi
 WiFi enabled cartridge for the 16-bit SEGA Genesis/MegaDrive console.
 
